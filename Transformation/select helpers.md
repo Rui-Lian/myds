@@ -1,0 +1,5 @@
+- where(is.character())
+- contain("abc")
+- num_range
+- start_with
+- end_with
